@@ -182,6 +182,11 @@
         <unique>false</unique>
     </fields>
     <label>Custom Object1</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>Custom Object1 Name</label>
         <type>Text</type>
