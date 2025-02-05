@@ -181,6 +181,13 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>field24__c</fullName>
+        <label>field24</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
     <label>Custom Object 2</label>
     <nameField>
         <label>Custom Object 2 Name</label>
