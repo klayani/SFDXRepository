@@ -170,6 +170,24 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>field33__c</fullName>
+        <label>field33</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>field34__c</fullName>
+        <externalId>false</externalId>
+        <label>field34</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
     <label>Custom Object 3</label>
     <nameField>
         <label>Custom Object 3 Name</label>
