@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Custom_Object_3__c.field33__c</members>
-        <members>Custom_Object_3__c.field34__c</members>
+        <members>Account.Checking__c</members>
+        <members>Account.check4__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Custom_Object_3__c-Custom Object 3 Layout</members>
+        <members>Account-Account Layout</members>
         <name>Layout</name>
     </types>
     <version>62.0</version>
